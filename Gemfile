@@ -4,6 +4,7 @@ gem 'rails', '3.2.0'
 gem 'haml'
 gem 'haml-rails'
 gem 'sass'
+gem 'jquery-rails'
 
 gem 'sqlite3'
 
